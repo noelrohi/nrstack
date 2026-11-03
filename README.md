@@ -8,8 +8,9 @@ The agent skills I use every day. Say the two words; no slash needed.
 |---|---|---|
 | `design-options` | "design options", "mock it" | Shows a UI change as one picture in the thread: options, a before and after, or the end state. |
 | `dumb-down` | "dumb down", "plain intl" | Restates the last message in half the words, in plain English, with every decision kept and numbered. |
+| `run-retro` | "run retro" | Finds what cost the session time and the environment fix for each: at most five, most costly first. Changes nothing until you pick. |
 
-Each skill is hill-climbed against real sessions and graded blind: `design-options` scores 7.5/10 against 6.8 for the skill it replaced, and `dumb-down` 7.5 against 5.7.
+Each skill is hill-climbed against real sessions and graded blind: `design-options` scores 7.5/10 against 6.8 for the skill it replaced, `dumb-down` 7.5 against 5.7, and `run-retro` 6.9 against 6.6.
 
 ## Install
 
